@@ -2,9 +2,9 @@
  * funçoes sem retorno
  */
 function imprimirSoma(a,b){
-    console.log(a + b);
-    
+    console.log(a + b);  
 };
+
 imprimirSoma(7, 12);
 imprimirSoma(2)
 imprimirSoma(2, 13, 4 ,5)

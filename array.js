@@ -15,7 +15,7 @@ console.log(valores.length);
 console.log(valores.pop()); //
 
 console.log(valores);
-console.log(valores.length);
+console.log(valores.length); //
 
 delete valores [0]; //deletando valor do indice
 console.log(valores);
